@@ -1,1 +1,2 @@
 # ATS-Software
+Applicant Tracking System (ATS) software is a specialized tool used by recruiters, hiring managers, and human resources (HR) departments to streamline and automate the recruitment process. Its primary functions are to manage, sort, and rank applications for open positions, making it easier to handle large volumes of applications while improving the efficiency of the hiring process. This is made by using python and its serveral library
